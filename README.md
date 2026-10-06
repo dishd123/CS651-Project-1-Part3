@@ -6,7 +6,7 @@ StudyBoard is the website of our group's startup idea: a computer vision and mac
 | --- | --- |
 | Live site | http://part3.studyboard.tech.s3-website-us-east-1.amazonaws.com/ |
 | Wiki | https://github.com/dishd123/CS651-Project-1-Part3/wiki |
-| YouTube video | VIDEO-LINK-PENDING |
+| YouTube video | https://youtu.be/JIpD1zom7cI |
 | Setup and deploy steps | [S3Deployment/README.md](S3Deployment/README.md) |
 
 The site is always up: S3 does not need a Learner Lab session. It is plain HTTP, because S3 website endpoints do not support HTTPS. Type `http://` in front of the address, and if Chrome says the connection is not secure, choose Continue to site.
